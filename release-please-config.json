@@ -1,0 +1,34 @@
+{
+    "release-type": "simple",
+    "packages": {
+        ".": {
+            "changelog-path": "docs/changelog/index.md"
+        }
+    },
+    "changelog-sections": [
+        {
+            "type": "gov",
+            "section": ":balance_scale: Governance"
+        },
+        {
+            "type": "guide",
+            "section": ":straight_ruler: Guidelines"
+        },
+        {
+            "type": "info",
+            "section": ":sparkles: Information"
+        },
+        {
+            "type": "tech",
+            "section": ":computer: Technical Details"
+        },
+        {
+            "type": "tips",
+            "section": ":bulb: Tips & Tricks"
+        },
+        {
+            "type": "fix",
+            "section": ":bug: Bug Fixes"
+        }
+    ]
+}
