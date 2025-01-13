@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<style> /* Hide edit button */
+  .md-content__button {
+    display: none;
+  }
+</style>
 
-## Commands
+# EDM Landmark User Info
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+::cards::cols=2
 
-## Project layout
+- title: :octicons-law-16:&nbsp;PDFs
+  content: PDFs 
+  url: PDFs.md
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- title: :octicons-law-16:&nbsp;Windows Help Files
+  content: Windows Help files
+  url: WindowsHelpFiles.md
+
+::/cards::
+

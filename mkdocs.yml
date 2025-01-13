@@ -1,1 +1,72 @@
-site_name: EDM LANDMARK User Info
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: EDM Landmark User Info
+repo_url: https://github.com/equinor/edmlandmark-mkdocs
+edit_uri:  'edit/main/docs/'
+markdown_extensions:
+  - def_list
+  - attr_list
+  - md_in_html
+  - admonition
+  - neoteroi.cards
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+plugins:
+  - search
+  - git-authors
+  - git-revision-date-localized:
+      type: date
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: custom
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: custom
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  logo: https://cdn.eds.equinor.com/logo/equinor-logo-primary.svg#white
+  favicon: _resources/favicon.ico
+  features:
+    - navigation.tracking
+    - navigation.path
+    - navigation.top
+    - navigation.expand
+    # - toc.integrate
+    - content.action.edit
+extra_css:
+  - https://cdn.eds.equinor.com/font/equinor-font.css
+  - _resources/mkdocs-eq.css
+  - _resources/neoteroi-cards.css
+nav:
+  - Home: index.md
+  - PDFs: PDFs.md
+  - Windows Help Files: WindowsHelpFiles.md
+  # - Tips and Tricks: 
+  #   - Security: tips-and-tricks/security/index.md
+  #- Changelog: changelog/index.mdsite_name: EDM LANDMARK User Info

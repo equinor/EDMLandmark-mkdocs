@@ -1,0 +1,22 @@
+:Base graphppr.hlp
+:Title Graph control
+1 How to...
+2 Enter the property pages=idx_entering_the_property_pages
+1 Reference
+2 2D Gallery page=idx_2d_gallery_property_page
+2 3D Gallery page=idx_3d_gallery_property_page
+2 3D page=idx_3d_property_page
+2 Axis page=idx_axis_property_page
+2 Background page=idx_background_property_page
+2 Bound data page=idx_bound_data_property_page
+2 Data page=idx_data_property_page
+2 Error Bar page=idx_error_bar_property_page
+2 Fonts page=idx_fonts_property_page
+2 Labels page=idx_labels_property_page
+2 Legend page=idx_legend_property_page
+2 Markers page=idx_markers_property_page
+2 Overlay page=idx_overlay_property_page
+2 Style page=idx_style_property_page
+2 System page=idx_system_property_page
+2 Titles page=idx_titles_property_page
+2 Trends page=idx_trends_property_page

@@ -1,0 +1,159 @@
+END-USER LICENSE AGREEMENT
+(Nonexclusive; Object Code Only)
+
+between
+
+Landmark Graphics Corporation ("Licensor", "Landmark") and You ("Licensee")
+
+WHEREAS, Oracle USA, Inc. ("Oracle") is the owner of certain proprietary
+         software, specifically the Oracle Database 10g Release 1(10.2.0.4.0)
+         JDBC Drivers (hereinafter the "Licensed Program"), and
+
+WHEREAS, Landmark and Oracle both desire that Landmark incorporate
+         the Licensed Program into its application programs commonly referred
+         to as "Engineer's Desktop" ("the Landmark Software"), and
+
+WHEREAS, Landmark and Oracle both desire that Landmark redistribute the
+         Licensed Program into its application, subject to this end user
+         license agreement ("EULA"),
+
+THEREFORE, in order to facilitate your use of the Landmark Software and the
+         Licensed Program, Landmark and Oracle give you this limited license
+         to use the Licensed Programs, subject to the following terms and
+         conditions:
+
+LICENSED PROGRAM IS COPYRIGHTED AND LICENSED (NOT SOLD).
+LICENSOR DOES NOT SELL OR TRANSFER TITLE TO THE LICENSED PROGRAM TO YOU.
+TYPING "ACCEPT" IN THE PROMPT BELOW IS A CONFIRMATION THAT YOU AGREE TO BE
+BOUND TO THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF
+THIS EULA, TYPE "DO NOT ACCEPT" IN THE PROMPT BELOW AND THE INSTALLATION WILL
+BE CANCELLED.
+
+1. Scope of Rights.   You may:
+
+  1.1 Install the Licensed Program on a single computer, workstation,
+      terminal, or other digital electronic device ("Computer").
+
+  1.2 Use and execute the Licensed Program on the Computer only to run the
+      Landmark Software for your business operations;
+
+  1.3 Make one copy of the Licensed Program in machine-readable, object code
+      form, for nonproductive backup purposes only, provided that you do not
+      remove any proprietary or other legend or restrictive notice contained
+      or include in any Program and material provided to you by Landmark.
+
+2. No Technical Support. Neither Landmark, nor Oracle technical support
+   organizations will provide technical support, phone support, or updates
+   to you for the Licensed Program licensed under this Agreement.
+	
+3. Proprietary Protection and Restrictions.   Oracle shall have sole and
+   exclusive ownership of all right, title, and interest in and to the
+   Licensed Program (including ownership of all trade secrets and copyrights
+   pertaining thereto), subject only to the rights and privileges expressly
+   granted to you herein by Licensor. This Agreement does not provide you
+   with title or ownership of the Licensed Program, but only a right of
+   limited use. You must keep the Licensed Program free and clear of all
+   claims, liens, and encumbrances.
+
+     You may not use, copy, modify, or distribute the Licensed Program
+   (electronically or otherwise), or any copy, adaptation, transcription, or
+   merged portion thereof, except as expressly authorized by Licensor. You
+   may not cause or permit reverse assemble, reverse compile, or otherwise
+   translate the Licensed Program. You may not remove or modify any program
+   markings or any copyright notice. You may not use the Licensed Program to
+   provide third party training on the content and /or functionality of the
+   Licensed Program, except for training of your licensed users. You may not
+   disclose results of any Licensed Program benchmark. Your rights may not be
+   transferred, leased, assigned, or sublicensed. You may not install the
+   Licensed Program in any other computer system or use it at any other
+   location without Licensor's express authorization obtained in advance
+   (which will not be unreasonably withheld). If you use, copy, or modify the
+   Licensed Program or if you transfer possession of any copy, adaptation,
+   transcription, or merged portion of the Licensed Program to any other party
+   in any way not expressly authorized by Licensor, your license is
+   automatically terminated.
+
+4. Limited Warranty and Limitation of Liability.   
+
+     EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, LICENSOR DISCLAIMS ANY
+   AND ALL PROMISES, REPRESENTATIONS, AND WARRANTIES WITH RESPECT TO THE
+   LICENSED PROGRAM; INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF
+   MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE OR NON INFRINGEMENT.
+
+     The cumulative liability of Licensor or its suppliers to you for all
+   claims relating to the Licensed Program and this Agreement, including any
+   cause of action sounding in contract, tort, or strict liability, shall not
+   exceed one thousand dollars ($1,000). This limitation of liability is
+   intended to apply without regard to whether other provisions of this
+   Agreement have been breached or have proven ineffective.
+	
+     In no event shall Licensor or its suppliers be liable for any loss of
+   profits; revenue, data or data use, any incidental, special, exemplary,
+   or consequential damages; or any claims or demands brought against you,
+   even if Licensor has been advised of the possibility of such claims or
+   demands. This limitation upon damages and claims is intended to apply
+   without regard to whether other provisions of this Agreement have been
+   breached or have proven ineffective.
+
+     You may have additional rights under certain laws (e.g., consumer laws)
+   that do not allow the exclusion of implied warranties, or the exclusion
+   or limitation of certain damages. If such laws apply, our exclusions or
+   limitations do not apply to you.
+
+5. Termination.  You may terminate this agreement by destroying all copies
+   of the Licensed Program. Licensor has the right to terminate your right to
+   use the Licensed Program if you fail to comply with any of the terms of
+   this agreement, in which case you shall destroy all copies of the Licensed
+   Program.
+ 
+6. Export. You agree that U.S. export control laws and other applicable
+   export and import laws govern your use of the Licensed Program, including
+   technical data. You agree that neither the Licensed Program nor any direct
+   product thereof will be exported, directly, or indirectly, in violation
+   of these laws, or will be used for any purpose prohibited by these laws
+   including, without limitation, nuclear, chemical, or biological weapons
+   proliferation.
+
+7. Open Source. "Open Source" software - software available without charge
+   for use, modification and distribution - is often licensed under terms
+   that require the user to make the user's modifications to the Open Source
+   software or any software that the user 'combines' with the Open Source
+   software freely available in source code form. If you use Open Source
+   software in conjunction with the Licensed Program, you must ensure that
+   your use does not: (i) create, or purport to create, obligations of us
+   with respect to the Licensed Program; or (ii) grant, or purport to grant,
+   to any third party any rights to or immunities under our intellectual
+   property or proprietary rights in the Licensed Program. For example, you
+   may not develop a software program using the Licensed Program and an
+   Open Source program where such use results in a program file(s) that
+   contains code from both the Licensed Program and the Open Source program
+   (including without limitation libraries) if the Open Source program is
+   licensed under a license that requires any "modifications" be made freely
+   available. You also may not combine the Licensed Program with programs
+   licensed under the GNU General Public License ("GPL") in any manner that
+   could cause, or could be interpreted or asserted to cause, the Licensed
+   Program or any modifications thereto to become subject to the terms of the
+   GPL.
+
+8. Miscellaneous. This Agreement shall be governed by and construed in
+   accordance with the laws of the State of Texas.
+
+   The relationship between you and Landmark is that of licensee/licensor.
+   Neither party will represent that it has any authority to assume or
+   create any obligation, express or implied, on behalf of the other party,
+   nor to represent the other party as agent, employee, franchisee, or in
+   any other capacity. Nothing in this agreement shall be construed to limit
+   either party's right to independently develop or distribute software that
+   is functionally similar to the other party's products, so long as
+   proprietary information of the other party is not included in such software.
+
+   In the event that any of the terms of this Agreement is or becomes or is
+   declared to be invalid or void by any court or tribunal of competent
+   jurisdiction, such term or terms shall be null and void and shall be
+   deemed severed from this Agreement and all the remaining terms of this
+   Agreement shall remain in full force and effect.
+
+   THIS AGREEMENT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF LICENSOR'S
+   OBLIGATIONS AND RESPONSIBILITIES TO YOU AND SUPERSEDES ANY OTHER PROPOSAL,
+   REPRESENTATION, OR OTHER COMMUNICATION BY OR ON BEHALF OF LICENSOR RELATING
+   TO THE SUBJECT MATTER HEREOF.
