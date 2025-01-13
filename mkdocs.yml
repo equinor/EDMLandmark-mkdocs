@@ -67,7 +67,8 @@ nav:
   - Home: index.md
   - PDFs: PDFs.md
   - Windows Help Files: WindowsHelpFiles.md
-  - Changelog: changelog/index.md
+  - Knowledge Documents: KBDocs.md
+  # - Changelog: changelog/index.md
   # - Tips and Tricks: 
   #   - Security: tips-and-tricks/security/index.md
   #- Changelog: changelog/index.mdsite_name: EDM LANDMARK User Info
