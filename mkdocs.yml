@@ -9,8 +9,8 @@ markdown_extensions:
   - admonition
   - neoteroi.cards
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
@@ -67,6 +67,7 @@ nav:
   - Home: index.md
   - PDFs: PDFs.md
   - Windows Help Files: WindowsHelpFiles.md
+  - Changelog: changelog/index.md
   # - Tips and Tricks: 
   #   - Security: tips-and-tricks/security/index.md
   #- Changelog: changelog/index.mdsite_name: EDM LANDMARK User Info

@@ -21,5 +21,10 @@ hide:
   content: Windows Help files
   url: WindowsHelpFiles.md
 
+- title: :octicons-law-16:&nbsp;Old wiki pages
+  content: Old Wiki Pages
+  url: https://wiki.equinor.com/wiki/EDM_LANDMARK_(user_info)
+
+
 ::/cards::
 
