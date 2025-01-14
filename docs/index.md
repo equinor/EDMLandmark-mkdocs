@@ -13,19 +13,19 @@ hide:
 
 ::cards::cols=2
 
-- title: :octicons-law-16:&nbsp;PDFs
+- title: :material-tools:&nbsp;PDFs
   content: PDFs 
   url: PDFs.md
 
-- title: :octicons-law-16:&nbsp;Windows Help Files
+- title: :octicons-book-24:&nbsp;Windows Help Files
   content: Windows Help files
   url: WindowsHelpFiles.md
 
-- title: :octicons-law-16:&nbsp;Knowledge Documents
+- title: :simple-lighthouse:&nbsp;Knowledge Documents
   content: Knowledge Documents
   url: KBDocs.md
 
-- title: :octicons-law-16:&nbsp;Old wiki pages
+- title: :material-bookshelf:&nbsp;Old wiki pages
   content: Old Wiki Pages
   url: https://wiki.equinor.com/wiki/EDM_LANDMARK_(user_info)
 
